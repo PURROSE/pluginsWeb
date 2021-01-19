@@ -1,0 +1,34 @@
+.div-carousel{
+    width: 330px;
+    height: 300px;
+}
+.div-carousel img{
+    width: 330px;
+    height: 300px;
+}
+.div-notice{
+    width:680px;
+    height: 300px;
+}
+.div-not{
+    height: 300px;
+    margin: 10px 5px;
+}
+.div-blog{
+    height: 300px;
+}
+.div-blog-remd{
+    width: 500px;
+}
+.div-blog-top{
+    width: 500px;
+}
+.div-plugins-list{
+
+}
+.div-plugins-like{
+    width: 500px;
+}
+.div-plugins-top{
+    width: 500px;
+}

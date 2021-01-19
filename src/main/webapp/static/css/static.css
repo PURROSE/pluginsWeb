@@ -1,0 +1,22 @@
+.div-bg{
+    width: 1024px;
+    margin:15px auto;
+}
+.div-nav{
+    margin: 10px 5px;
+}
+.div-clearFloat{
+    clear: both;
+}
+.div-left{
+    float: left;
+}
+.div-right{
+    float: right;
+}
+.text-right{
+    text-align: right;
+}
+.div-center{
+    margin: 5px auto;
+}

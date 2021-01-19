@@ -1,0 +1,9 @@
+.div-login table{
+    margin: 10px auto;
+}
+.div-login td{
+    height: 35px;
+}
+.div-login button{
+    width: 150px;
+}
